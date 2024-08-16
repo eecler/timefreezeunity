@@ -2,10 +2,10 @@
 Compatible with: Unity 2020+ (tested on 2022.3.41f1)
 
 Contains:
-demo scene
-Player controller
-freeze script
-slo-mo script
+demo scene\
+Player controller\
+freeze script\
+slo-mo script\
 
 HOW TO USE:
 Create a empty object.
