@@ -13,3 +13,7 @@ Attach "Slomotion" script and "Time Freeze" script on it \
 or \
 Use "TimeManager" prefab in Prefabs folder 
 
+T - slo-mo
+F - time freeze
+
+
