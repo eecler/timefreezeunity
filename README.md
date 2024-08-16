@@ -9,7 +9,7 @@ slo-mo script
 
 HOW TO USE:
 Create a empty object.\
-Attach "Slomotion" script and "Time Freeze" script \
+Attach "Slomotion" script and "Time Freeze" script on it \
 or \
 Use "TimeManager" prefab in Prefabs folder 
 
